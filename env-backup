@@ -1,0 +1,3 @@
+MONGO_URL='mongodb+srv://Dezayy:1020deza@cluster0.fnmcayc.mongodb.net/?retryWrites=true&w=majority'
+PORT=3000
+JWT_SECRET='dba38feddbd449960f41da8cd77cd01d60f7e153db9a585c863fb6521c6fa2101b6077890ee0a82c97da5d8ad07799a52ef5244c9543357ce84ce554796e02c1'
